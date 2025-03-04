@@ -1,10 +1,10 @@
 My Tester’s Portfolio
   Test Cases
-    📱 Android Application: Too Good To Go [Test cases - GoIT Marathon.pdf](https://github.com/user-attachments/files/19068829/Test.cases.-.GoIT.Marathon.pdf)
+    📱 Android Application: Too Good To Go 
     🌐 Websites:
        + Kindergarten website
-       + GoIT - Marathon
-       + Defect Reports
+       + GoIT - Marathon [Test cases - GoIT Marathon.pdf](https://github.com/user-attachments/files/19068829/Test.cases.-.GoIT.Marathon.pdf)
+  Defect Reports
   📌 Jira:
       [Name of defect]
   Excel Reports
