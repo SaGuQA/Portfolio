@@ -14,7 +14,9 @@ My Tester’s Portfolio
     🌐 Websites:
         testspring.pl
         Kindergarten website
-        GoIT - Marathon
-        📱 Android Application: Too Good To Go
+        GoIT - Marathon [[Defect reports ToGoodToGo](https://github.com/user-attachments/assets/8e396001-e5eb-40c2-b188-c31c1ee7eed5)]
+    📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f) [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
+
+
   API Testing (Postman)
     Grocery API
