@@ -1,20 +1,17 @@
 My Tester’s Portfolio
   1. Test Cases
-    📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f) [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
-    🌐 Websites:
-       + Kindergarten website
-       + GoIT - Marathon [[Marathon GoIT - Test case](https://github.com/user-attachments/assets/514e76e3-6f7e-4227-a0e6-a1236efd6bce)]
+    1.1.📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f) [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
+    1.2. 🌐 Websites:
+       1.2.1. Kindergarten website
+       1.2.2. GoIT - Marathon [[Marathon GoIT - Test case](https://github.com/user-attachments/assets/514e76e3-6f7e-4227-a0e6-a1236efd6bce)]
   2. Defect Reports
-  📌 Jira:
-      + Sign up [[Rejestracja formularz JIRA](https://github.com/user-attachments/assets/3a27becb-de8e-4830-9468-73c0bb55ff8b)]
-      + Filtr [[Filtrowanie (Mozilla) JIRA](https://github.com/user-attachments/assets/b0667d43-e1ef-4951-a99a-76a0956bb54a)]
-      + Photos [[Brak zdjęcia (Mozilla) JIRA](https://github.com/user-attachments/assets/e008ebba-70ed-4002-bc70-cc7f19fad193)]
-      + Price [[Cena (Mozilla, Chrome) JIRA](https://github.com/user-attachments/assets/18bd7540-794c-43b8-9283-c303c971b63c)]
-  Excel Reports
-    🌐 Websites:
-        + testspring.pl
-        + Kindergarten website
-        + GoIT - Marathon [[Defect report GoIT Marathon](https://github.com/user-attachments/assets/32ea222e-1285-48bd-971f-3907c916efb2)]
-    📱 Android Application: Too Good To Go [[Defect report ToGoodToGo](https://github.com/user-attachments/assets/8e396001-e5eb-40c2-b188-c31c1ee7eed5)]
+     2.1. Sign up [[Rejestracja formularz JIRA](https://github.com/user-attachments/assets/3a27becb-de8e-4830-9468-73c0bb55ff8b)]
+     2.2. Filtr [[Filtrowanie (Mozilla) JIRA](https://github.com/user-attachments/assets/b0667d43-e1ef-4951-a99a-76a0956bb54a)]
+     2.3. Photos [[Brak zdjęcia (Mozilla) JIRA](https://github.com/user-attachments/assets/e008ebba-70ed-4002-bc70-cc7f19fad193)]
+     2.4. Price [[Cena (Mozilla, Chrome) JIRA](https://github.com/user-attachments/assets/18bd7540-794c-43b8-9283-c303c971b63c)]
+     2.5. Testspring.pl website
+     2.6. Kindergarten website
+     2.7. GoIT - Marathon [[Defect report GoIT Marathon](https://github.com/user-attachments/assets/32ea222e-1285-48bd-971f-3907c916efb2)]
+     2.8. Android Application: Too Good To Go [[Defect report ToGoodToGo](https://github.com/user-attachments/assets/8e396001-e5eb-40c2-b188-c31c1ee7eed5)]
   3. API Testing (Postman)
-    Grocery API
+     3.1. Grocery API
