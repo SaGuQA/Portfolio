@@ -1,6 +1,7 @@
-[Test cases - GoIT Maraton - Arkusz1.csv](https://github.com/user-attachments/files/19068724/Test.cases.-.GoIT.Maraton.-.Arkusz1.csv)[Test cases - GoIT Maraton - Arkusz1.csv](https://github.com/user-attachments/files/19068716/Test.cases.-.GoIT.Maraton.-.Arkusz1.csv)My Tester’s Portfolio
+My Tester’s Portfolio
   Test Cases
-    📱 Android Application: Too Good To Go [
+    📱 Android Application: Too Good To Go [[Test cases - GoIT Maraton - Arkusz1.pdf](https://github.com/user-attachments/files/19068791/Test.cases.-.GoIT.Maraton.-.Arkusz1.pdf)]
+
 
 
     🌐 Websites:
