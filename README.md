@@ -1,7 +1,7 @@
 My Tester’s Portfolio
   1. Test Cases
     1.1.📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f), [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
-    1.2. 🌐 Websites:
+    1.2. 🌐 Websites: 
        1.2.1. GoIT - Marathon [[Marathon GoIT - Test case](https://github.com/user-attachments/assets/514e76e3-6f7e-4227-a0e6-a1236efd6bce)]
   2. Defect Reports
      2.1. Sign up [[Rejestracja formularz JIRA](https://github.com/user-attachments/assets/3a27becb-de8e-4830-9468-73c0bb55ff8b)]
