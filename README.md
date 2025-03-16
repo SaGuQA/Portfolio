@@ -1,9 +1,9 @@
 My Tester’s Portfolio
   1. Test Cases
-    1.1.📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f), [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
-    1.2. 🌐 Websites: 
-       1.2.1. GoIT - Marathon [[Marathon GoIT - Test case](https://github.com/user-attachments/assets/514e76e3-6f7e-4227-a0e6-a1236efd6bce)]
-       1.2.2. Website - [[Test cases - website (1-9)](https://github.com/user-attachments/assets/1996f22d-70ad-4c69-90f6-698c003c2386)] [[Test cases - website (10-16)](https://github.com/user-attachments/assets/ff006121-197f-4505-b61c-d37512246f51)] [[Test cases - website (17-24)](https://github.com/user-attachments/assets/0df3cb0f-4fe2-4696-9322-aba76e80f9e9)]
+    *📱 Android Application: Too Good To Go [[Przypadek testowy(1) TGTG](https://github.com/user-attachments/assets/c97f4d3f-dc70-4258-aa59-ad20d2b1fe0f), [Przypadek testowy(2) TGTG](https://github.com/user-attachments/assets/81eb5d8b-ab46-4785-a4b4-21ee05addb02)]
+    * 🌐 Websites: 
+       * GoIT - Marathon [[Marathon GoIT - Test case](https://github.com/user-attachments/assets/514e76e3-6f7e-4227-a0e6-a1236efd6bce)]
+       * Website - [[Test cases - website (1-9)](https://github.com/user-attachments/assets/1996f22d-70ad-4c69-90f6-698c003c2386)] [[Test cases - website (10-16)](https://github.com/user-attachments/assets/ff006121-197f-4505-b61c-d37512246f51)] [[Test cases - website (17-24)](https://github.com/user-attachments/assets/0df3cb0f-4fe2-4696-9322-aba76e80f9e9)]
   2. Defect Reports
      2.1. Sign up [[Rejestracja formularz JIRA](https://github.com/user-attachments/assets/3a27becb-de8e-4830-9468-73c0bb55ff8b)]
      2.2. Filtr [[Filtrowanie (Mozilla) JIRA](https://github.com/user-attachments/assets/b0667d43-e1ef-4951-a99a-76a0956bb54a)]
