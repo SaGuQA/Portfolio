@@ -1,13 +1,13 @@
-<SOFTWARE TESTER PORTFOLIO>
+**SOFTWARE TESTER PORTFOLIO**
 
-<QA E2E PROJECT:> Work in progress
+**QA E2E PROJECT**: *Work in progress*
 * Risk Analysis
 * DevTools UI Analysis
 * API Scenarios
 * SQL Validation
 * Test Strategy and conclusions
 
-<MY FIRST PROJECTS:>
+**MY FIRST PROJECTS:**
   1. Test Cases
       * Android Application: Too Good To Go [[TGTG - test cases(1-3)](https://github.com/user-attachments/assets/fb5ca5c7-794a-450e-8aa1-06b8ecdc242b),[TGTG - test cases(4-7)](https://github.com/user-attachments/assets/56362c58-ea59-40ac-9e26-aeb66b18005a),[TGTG - test cases(8-9)](https://github.com/user-attachments/assets/c8be8862-7336-491c-abd6-b53e07b42513)]
       * Websites: 
@@ -29,4 +29,4 @@
   6. Users story
      * Plug-in [[Users story](https://github.com/user-attachments/assets/df3553ad-75be-44df-bf34-e075cab387d0)]
     
-  <Connect with me via LinkedIn [https://www.linkedin.com/in/sabina-gutwińska]>
+  *Connect with me via LinkedIn [[LinkedIn](https://www.linkedin.com/in/sabina-gutwińska)]*
